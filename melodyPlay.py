@@ -1,8 +1,7 @@
 
 # -*- coding: utf-8 -*-
 """
-@author: Giovanni Di Liberto
-See description in the assignment instructions.
+
 """
 
 from pydub import AudioSegment
